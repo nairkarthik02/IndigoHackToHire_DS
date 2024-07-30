@@ -39,7 +39,3 @@ Remove irrelevant information and apply techniques such as tokenization, stop wo
 
 
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
